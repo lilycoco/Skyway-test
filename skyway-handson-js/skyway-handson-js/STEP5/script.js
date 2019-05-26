@@ -31,7 +31,7 @@ $(function(){
         });
 
     peer = new Peer({
-        key: 'APIKEY',
+        key: 'b74a568e-c941-4cfe-bf70-67c512a629ac',
         debug: 3
     });
 
